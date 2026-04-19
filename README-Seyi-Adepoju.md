@@ -10,4 +10,4 @@
 * **How it helped & What I learned:** *(Explain the solution it provided and how you ensured you understood the code).*
 
 ## 3. Live Site Link
-* **Live URL:** Live URL: [https://vcu-257.github.io/iteration-2-build-with-style-group1/]
+* **Live URL:** [https://vcu-257.github.io/iteration-2-build-with-style-group1/]
