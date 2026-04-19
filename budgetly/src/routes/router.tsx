@@ -1,10 +1,10 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import App from "../App";
 import DashboardPage from "../pages/DashboardPage/DashboardPage";
 import CreatePaymentPage from "../pages/CreatePaymentPage/CreatePaymentPage";
 import SuccessPage from "../pages/successpage/SuccessPage";
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   [
     {
       path: "/",
@@ -16,7 +16,6 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: "/ugly-build-with-bootstrap-group1" },
 );
 
 export default router;
