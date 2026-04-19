@@ -10,5 +10,4 @@
 * **How it helped & What I learned:** *(Explain the solution it provided and how you ensured you understood the code).*
 
 ## 3. Live Site Link
-*Provide the GitHub Pages link to the specific page(s) you built.*
-* **Live URL:** [Insert Link Here]
+* **Live URL:** Live URL: [https://vcu-257.github.io/iteration-2-build-with-style-group1/]
